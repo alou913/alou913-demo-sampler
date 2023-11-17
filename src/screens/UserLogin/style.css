@@ -1,0 +1,285 @@
+.user-login {
+  background-color: #f5faff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.user-login .overlap-wrapper {
+  background-color: #f5faff;
+  border: 1px solid;
+  border-color: #bde3ff;
+  height: 2560px;
+  overflow: hidden;
+  width: 3328px;
+}
+
+.user-login .overlap {
+  height: 3194px;
+  left: -480px;
+  position: relative;
+  top: -515px;
+  width: 3924px;
+}
+
+.user-login .group-background {
+  height: 3194px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3924px;
+}
+
+.user-login .shape-with-text {
+  height: 2455px;
+  left: 3950px;
+  position: absolute;
+  top: 1908px;
+  width: 3232px;
+}
+
+.user-login .gradient-overlay {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(255, 255, 255, 0.5) 0.01%,
+    rgba(0, 102, 255, 0.5) 43.75%,
+    rgba(0, 255, 252, 0.5) 100%
+  );
+  border-radius: 200px;
+  filter: blur(650px);
+  height: 1479px;
+  left: 225px;
+  position: absolute;
+  top: 1433px;
+  transform: rotate(23.74deg);
+  width: 1708px;
+}
+
+.user-login .gradient-overlay-top {
+  background: linear-gradient(180deg, rgba(26, 41, 128, 0.5) 0%, rgba(164.32, 190.19, 43.58, 0.5) 100%);
+  border-radius: 200px;
+  filter: blur(650px);
+  height: 1479px;
+  left: 2139px;
+  position: absolute;
+  top: 250px;
+  transform: rotate(23.74deg);
+  width: 1553px;
+}
+
+.user-login .box-user-password {
+  background-color: #d9d9d966;
+  border-radius: 80px 80px 0px 0px;
+  height: 830px;
+  left: 1653px;
+  position: absolute;
+  top: 1156px;
+  width: 979px;
+}
+
+.user-login .group-forgot {
+  height: 110px;
+  left: 1654px;
+  position: absolute;
+  top: 2009px;
+  width: 982px;
+}
+
+.user-login .overlap-group {
+  height: 110px;
+  position: relative;
+  width: 980px;
+}
+
+.user-login .box-forgot {
+  background-color: #d9d9d966;
+  height: 110px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 979px;
+}
+
+.user-login .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 500;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 978px;
+}
+
+.user-login .icon-question-circle {
+  height: 58px;
+  left: 98px;
+  position: absolute;
+  top: 24px;
+  width: 57px;
+}
+
+.user-login .group-user {
+  height: 84px;
+  left: 1746px;
+  position: absolute;
+  top: 1651px;
+  width: 794px;
+}
+
+.user-login .line-user {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 79px;
+  width: 792px;
+}
+
+.user-login .div {
+  height: 73px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 788px;
+}
+
+.user-login .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 500;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 788px;
+}
+
+.user-login .icon-mail {
+  height: 44px;
+  left: 2px;
+  position: absolute;
+  top: 15px;
+  width: 54px;
+}
+
+.user-login .group-password {
+  height: 88px;
+  left: 1746px;
+  position: absolute;
+  top: 1820px;
+  width: 794px;
+}
+
+.user-login .line-PW {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 792px;
+}
+
+.user-login .overlap-2 {
+  height: 77px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 788px;
+}
+
+.user-login .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 500;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 788px;
+}
+
+.user-login .icon-lock {
+  height: 61px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.user-login .group-brand {
+  height: 390px;
+  left: 1890px;
+  position: absolute;
+  top: 1193px;
+  width: 474px;
+}
+
+.user-login .icon-user-circle {
+  height: 206px;
+  left: 151px;
+  position: absolute;
+  top: 184px;
+  width: 206px;
+}
+
+.user-login .logo {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 474px;
+}
+
+.user-login .group-login-button {
+  height: 144px;
+  left: 1655px;
+  position: absolute;
+  top: 2142px;
+  width: 981px;
+}
+
+.user-login .overlap-3 {
+  height: 144px;
+  position: relative;
+  width: 979px;
+}
+
+.user-login .box-login {
+  background-color: #d9d9d9b2;
+  border-radius: 80px 80px 0px 0px;
+  height: 143px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-179.97deg);
+  width: 979px;
+}
+
+.user-login .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 500;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 978px;
+}
